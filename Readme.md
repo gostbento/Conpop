@@ -17,4 +17,5 @@ Se você for representante de um coletivo ou associação você **Deve** se insc
 O mesmo vale para qualquer vereador/candidato/pré-candidato, os mesmos devem se inscrever no QRCode. 
 
 ### Saiba mais.
-Para saber mais a respeito, participar, propor pautas e mais 
+Para saber mais a respeito, participar, propor pautas e mais Veja nos documentos acima por enquanto 
+
